@@ -1,4 +1,4 @@
-const BASE_URL = "https://your-backend.onrender.com/api/auth"; // Replace with real URL
+const BASE_URL = "https://repo-ebzr.onrender.com"; // Replace with real URL
 
 function login(e) {
   e.preventDefault();
